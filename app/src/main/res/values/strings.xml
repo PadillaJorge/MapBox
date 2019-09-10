@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App5Mapbox</string>
+    <string name="title_activity_mapa">MapaActivity</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiZ2VvcmdlLXBhZGlsbGEiLCJhIjoiY2p6b2k4dG94MDM5azNobW1oaGdpaWRuZyJ9.zb1LHIID_SCsOZjyMbKgUA</string>
+</resources>
